@@ -62,13 +62,13 @@ const Navbar: React.FC = () => {
             href="/"
             className={`font-bold text-3xl text-black h-full flex items-center              `}
           >
-            <Image
+{/*             <Image
               className="mt-2"
               src={logo}
               height={100}
               width={150}
               alt="logo"
-            />
+            /> */}
             {/* <div className=" mr-1 ">
               <Image src={logo} height={50} width={50} alt="logo" />
             </div>
